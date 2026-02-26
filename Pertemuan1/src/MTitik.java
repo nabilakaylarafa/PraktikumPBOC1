@@ -11,5 +11,5 @@ public class MTitik {
         T1.printTitik();
         T1.geser(3, 4);
         T1.printTitik();
-    }
+    } 
 }
