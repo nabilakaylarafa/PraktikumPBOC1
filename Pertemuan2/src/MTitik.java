@@ -8,7 +8,7 @@ public class MTitik {
         Titik T1 = new Titik(); //Membuat objek titik T1 (0,0)
         System.out.print("Titik T1 (awal): ");
         T1.printTitik();
-        T1.setAbsis(3); //mengubah absis T1 dengan nilai 2
+        T1.setAbsis(3); //mengubah absis T1 dengan nilai 3
         T1.setOrdinat(4); //mengubah ordinat T1 dengan nilai 4
         System.out.print("T1 setelah setAbsis(3) & setOrdinat(4): ");
         T1.printTitik(); //mencetak koordinat T1 ke layar
