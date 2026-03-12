@@ -53,7 +53,7 @@ public class MBangunDatar {
         System.out.println("Luas Lingkaran L1       : " + L1.getLuas());
         System.out.println("Keliling Lingkaran L1   : " + L1.getKeliling());
 
-        //uji konstruktor dengan parameter P2
+        //uji konstruktor dengan parameter L2
         Lingkaran L2 = new Lingkaran(14.0, "Ungu", "Putih");
         System.out.println("\nData Lingkaran L2");
         L2.printInfo();
