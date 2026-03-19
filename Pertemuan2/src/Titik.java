@@ -2,7 +2,7 @@
  * Deskripsi    : berisi atribut dan method dalam class Titik
  * Pembuat      : Nabila Kayla Rafa (24060124120022)
  * Tanggal      : Kamis, 26 Februari 2026 */
- 
+  
 public class Titik {
     /***************ATRIBUT***************/
     private double absis;
