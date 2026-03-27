@@ -88,4 +88,5 @@ public abstract class BangunDatar {
         System.out.println("Warna       : " + warna);
         System.out.println("Border      : " + border);
     }
+    
 }

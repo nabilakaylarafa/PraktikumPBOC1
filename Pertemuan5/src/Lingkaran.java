@@ -70,4 +70,5 @@ public class Lingkaran extends BangunDatar implements IResize {
         System.out.println("Luas lingkaran      : " + getLuas());
         System.out.println("Keliling lingkaran  : " + getKeliling());
     }
+    
 }

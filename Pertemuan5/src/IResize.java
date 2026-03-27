@@ -1,5 +1,5 @@
-/* Nama File    : IRInterface yang mendefinisikan method untuk esize.java 
- * Deskripsi    : mengubah ukuran objek (resize)
+/* Nama File    : IResize.java 
+ * Deskripsi    : Interface yang mendefinisikan method untuk mengubah ukuran objek (resize)
  * Pembuat      : Nabila Kayla Rafa (24060124120022)
  * Tanggal      : Kamis, 26 Maret 2026 */
 

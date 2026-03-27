@@ -123,4 +123,5 @@ public class MBangunDatar {
         //memanggil counter untuk melihat total objek yang sudah dibuat
         BangunDatar.printCounterBangunDatar();
     }
+    
 }

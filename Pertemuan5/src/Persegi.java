@@ -75,4 +75,5 @@ public class Persegi extends BangunDatar implements IResize {
         System.out.println("Keliling persegi : " + getKeliling());
         System.out.println("Diagonal persegi : " + getDiagonal());
     }
+    
 }
